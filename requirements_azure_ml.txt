@@ -1,0 +1,15 @@
+# Azure ML SDK v2 Requirements
+azure-ai-ml>=1.12.0
+azure-identity>=1.15.0
+azure-core>=1.29.0
+
+# Common ML libraries
+pandas>=1.5.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Optional: for advanced features
+mlflow>=2.7.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
